@@ -1,0 +1,1 @@
+This script takes in the density grid file. It will then read in this file line by line, and then create a sub file for each time step. It will then add into these sub file all the the lines from the density grid file that have the same timesteps. 
